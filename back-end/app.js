@@ -28,7 +28,7 @@ const aboutUsData = {
   
   Outside of my academic and professional pursuits, I have a quirky little fact to share: I’m the proud owner of five adorable guinea pigs! They bring a lot of joy to my life and are a fun reminder of the simple pleasures outside the tech world.
   
-  Feel free to reach out to me at DerrickSonghaoyuan@gmail.com. I’m always open to new ideas, collaborations, or even just a chat about software, space, or guinea pigs!`,
+  Feel free to reach out to me at DerrickSonghaoyuan@gmail.com. I’m always open to new ideas, collaborations, or even just a chat about software, space, or guinea pigs! Let's Go!`,
 
   photoUrl: "https://i.imgur.com/3nGMmib.jpeg"
 
